@@ -17,10 +17,13 @@
   ## License:
   
   ## Screencastify:
-  https://watch.screencastify.com/v/nPITuni1y1YyRy11iulv
-  ## Testing:
-  Run npm test. Uses jest to test.
+ 
+
+https://user-images.githubusercontent.com/89156347/144731424-8e9fc059-1cd2-4d4d-adc1-29bb0ee126d5.mp4
+
+
+  
   ## Additional Info:
   - Github: [colawrr](https://github.com/colawrr)
   - Email: connor.lawrence96@gmail.com 
-  - Video: [Click Here](Professional-README/video/module 9 screencast.mp4)
+  
