@@ -16,8 +16,8 @@
   Write and save notes to help keep track of your to dos for the day!
   ## License:
   
-  ## Contribution:
-  *see install
+  ## Screencastify:
+  
   ## Testing:
   Run npm test. Uses jest to test.
   ## Additional Info:
