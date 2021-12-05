@@ -21,7 +21,8 @@
 
 https://user-images.githubusercontent.com/89156347/144731424-8e9fc059-1cd2-4d4d-adc1-29bb0ee126d5.mp4
 
-
+  ## Deployed Heroku App
+  https://pacific-gorge-52443.herokuapp.com/
   
   ## Additional Info:
   - Github: [colawrr](https://github.com/colawrr)
